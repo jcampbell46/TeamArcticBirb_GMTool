@@ -102,6 +102,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Database1.mdf" />
+    <Content Include="App_Data\Database1_log.ldf">
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
     <Content Include="App_Data\GMTool.mdf" />
     <Content Include="App_Data\GMTool_log.ldf">
       <DependentUpon>GMTool.mdf</DependentUpon>
