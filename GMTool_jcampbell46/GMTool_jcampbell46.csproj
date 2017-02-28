@@ -116,6 +116,7 @@
     <Content Include="images\d4.jpg" />
     <Content Include="images\d6.jpg" />
     <Content Include="images\d8.jpg" />
+    <Content Include="Music\08 Black Blade.wav" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
