@@ -6,5 +6,9 @@
         <siteMapNode url="~/update.aspx" title="Update Players/Monsters"  description="User can add/drop players and monsters from DB." />
         <siteMapNode url="~/contact.aspx" title="Contact"  description="User can send bug reports or ask questions." />
         <siteMapNode url="~/behold.aspx" title="Behold!"  description="Behold!" />
+<<<<<<< HEAD
+=======
+        <siteMapNode url="~/character.aspx" title="Character Sheet" description="Create a Character." />
+>>>>>>> tyler-dev
     </siteMapNode>
 </siteMap>
