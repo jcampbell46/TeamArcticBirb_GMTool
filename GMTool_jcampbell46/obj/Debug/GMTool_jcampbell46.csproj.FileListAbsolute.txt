@@ -72,6 +72,45 @@ C:\Users\Eric\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.CodeDo
 C:\Users\Eric\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.csprojResolveAssemblyReference.cache
 C:\Users\Eric\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.dll
 C:\Users\Eric\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.pdb
+<<<<<<< HEAD
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\ApplicationInsights.config
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\csc.exe
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\vbc.exe
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\GMTool_jcampbell46.dll.config
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\GMTool_jcampbell46.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\GMTool_jcampbell46.pdb
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\EntityFramework.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\EntityFramework.SqlServer.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.Web.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\EntityFramework.xml
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\EntityFramework.SqlServer.xml
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.Web.xml
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.csprojResolveAssemblyReference.cache
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.dll
+C:\Users\Eric\TeamArcticBirb_GMTool\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.pdb
+=======
 C:\Users\Tyler's Mac\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\bin\ApplicationInsights.config
 C:\Users\Tyler's Mac\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\csc.exe
 C:\Users\Tyler's Mac\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -109,6 +148,9 @@ C:\Users\Tyler's Mac\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\bin\Microsoft
 C:\Users\Tyler's Mac\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.csprojResolveAssemblyReference.cache
 C:\Users\Tyler's Mac\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.dll
 C:\Users\Tyler's Mac\Desktop\GMTool_jcampbell46\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.pdb
+<<<<<<< HEAD
+>>>>>>> tyler-dev
+=======
 C:\Users\Tyler\Documents\ITsoftwaredev\3rdSemester\First8Weeks\Agile\AgileGroupProject\GMTool_jcampbell46\bin\ApplicationInsights.config
 C:\Users\Tyler\Documents\ITsoftwaredev\3rdSemester\First8Weeks\Agile\AgileGroupProject\GMTool_jcampbell46\bin\roslyn\csc.exe
 C:\Users\Tyler\Documents\ITsoftwaredev\3rdSemester\First8Weeks\Agile\AgileGroupProject\GMTool_jcampbell46\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -146,3 +188,4 @@ C:\Users\Tyler\Documents\ITsoftwaredev\3rdSemester\First8Weeks\Agile\AgileGroupP
 C:\Users\Tyler\Documents\ITsoftwaredev\3rdSemester\First8Weeks\Agile\AgileGroupProject\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.csprojResolveAssemblyReference.cache
 C:\Users\Tyler\Documents\ITsoftwaredev\3rdSemester\First8Weeks\Agile\AgileGroupProject\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.dll
 C:\Users\Tyler\Documents\ITsoftwaredev\3rdSemester\First8Weeks\Agile\AgileGroupProject\GMTool_jcampbell46\obj\Debug\GMTool_jcampbell46.pdb
+>>>>>>> tyler-dev
